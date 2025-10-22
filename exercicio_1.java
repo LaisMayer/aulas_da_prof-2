@@ -3,6 +3,8 @@ import java.util.Scanner;
 
 public class exercicio_1 {
 final static Scanner LER = new Scanner(System.in);
+
+public static void apagarDPS(){}
     public static void main(String[] args) {
 
 
